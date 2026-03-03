@@ -136,7 +136,9 @@ User Text → TextToSpeech Engine → Audio Output
 ## 📸 Demo Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+  <img src="images/screenshot1.png" width="300"/>
+   <img src="images/screenshot2.png" width="300"/>
+   <img src="images/screenshot3.png" width="300"/>
 </p>
 
 ---
