@@ -136,9 +136,9 @@ User Text → TextToSpeech Engine → Audio Output
 ## 📸 Demo Preview
 
 <p align="center">
-  <img src="images/screenshot1.png" width="300"/>
-   <img src="images/screenshot2.png" width="300"/>
-   <img src="images/screenshot3.png" width="300"/>
+  <img src="images/screenshot1.jpeg" width="300"/>
+   <img src="images/screenshot2.jpeg" width="300"/>
+   <img src="images/screenshot3.jpeg" width="300"/>
 </p>
 
 ---
